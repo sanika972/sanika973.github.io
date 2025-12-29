@@ -1,0 +1,8 @@
+style.css
+.main
+width=100px;
+height=400px;
+background=red;
+font size=100px;
+color=white;
+text align: centre;
